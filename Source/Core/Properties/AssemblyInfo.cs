@@ -19,10 +19,10 @@ using System.Runtime.InteropServices;
 // General Information about an library is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an library.
-[assembly: AssemblyTitle("NShape Core Components")]
-[assembly: AssemblyDescription("NShape Core Components for .NET Framework 4.0")]
+[assembly: AssemblyTitle("NetDraw Designer")]
+[assembly: AssemblyDescription("NetDraw Core Components for .NET Framework 4.0")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyProduct("NShape Core Components")]
+[assembly: AssemblyProduct("NetDraw Designer")]
 [assembly: AssemblyTrademark("")]
 
 // Setting ComVisible to false makes the types in this library not visible 

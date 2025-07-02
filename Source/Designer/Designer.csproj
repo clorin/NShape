@@ -9,8 +9,8 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Dataweb.NShape.Designer</RootNamespace>
-    <AssemblyName>NShapeDesigner</AssemblyName>
-    <ApplicationIcon>..\Dataweb.NShape.ico</ApplicationIcon>
+    <AssemblyName>NetDraw</AssemblyName>
+    <ApplicationIcon>objects_align_center.ico</ApplicationIcon>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <OldToolsVersion>3.5</OldToolsVersion>
@@ -215,6 +215,8 @@
     <Content Include="..\Dataweb.NShape.ico">
       <Link>Resources\Dataweb.NShape.ico</Link>
     </Content>
+    <Content Include="objects_align_center.ico" />
+    <Content Include="Resources\Emblem.gif" />
     <None Include="app.config" />
     <None Include="Resources\SaveAsBtn.bmp" />
     <None Include="Resources\UpgradeFileVersion.bmp" />

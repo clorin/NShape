@@ -19,8 +19,8 @@ using System;
 // General Information about an library is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an library.
-[assembly: AssemblyCompany("dataweb GmbH - www.dataweb.de")]
-[assembly: AssemblyCopyright("Copyright © dataweb GmbH 2009-2022")]
+[assembly: AssemblyCompany("Nortroll AS - www.nortroll.no")]
+[assembly: AssemblyCopyright("Copyright © Nortroll AS 2025")]
 [assembly: AssemblyCulture("")]
 
 // Enables CLS compliancy checks

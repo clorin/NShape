@@ -48,7 +48,7 @@ namespace Dataweb.NShape.Designer {
 
 
 		private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e) {
-			Process.Start("https://www.dataweb.de");
+			Process.Start("https://www.nortroll.no");
 		}
 
 
@@ -123,7 +123,6 @@ namespace Dataweb.NShape.Designer {
 			}
 		}
 
-		#endregion
-
-	}
+        #endregion
+    }
 }

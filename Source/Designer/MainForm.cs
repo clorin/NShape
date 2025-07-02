@@ -2802,15 +2802,15 @@ namespace Dataweb.NShape.Designer {
 
 		#region [Private] Constants
 
-		private const string AppTitle = "NShape Designer";
+		private const string AppTitle = "NetDraw Designer";
 		private const string SqlServerProviderName = "SQL Server";
 		private const string DefaultDatabaseName = "NShape";
 		private const string DefaultServerName = ".\\SQLEXPRESS";
-		private const string ConfigFileName = "Config.cfg";
+		private const string ConfigFileName = "NetDrawConfig.cfg";
 		private const string ProjectFileExtension = XmlStore.DefaultProjectFileExtension;
-		private const string FileFilterXmlRepository = "NShape Designer Files|*.nspj|XML Repository Files|*.nspj;*.xml|All Files|*.*";
+		private const string FileFilterXmlRepository = "NetDraw Designer Files|*.ndpj|XML Repository Files|*.ndpj;*.xml|All Files|*.*";
 
-		private const string NewProjectName = "New NShape Project";
+		private const string NewProjectName = "New NetDraw Project";
 		private const string DefaultDiagramNameFmt = "Diagram {0}";
 
 		private const string QueryNode = "//{0}";
@@ -2853,7 +2853,7 @@ namespace Dataweb.NShape.Designer {
 		private LayoutDialog _layoutControlForm;
 		private TemplateEditorDialog _templateEditorDialog;
 
-		private string _nShapeConfigDirectory = Path.Combine(Path.Combine("dataweb", "NShape"), Application.ProductName);
+		private string _nShapeConfigDirectory = Path.Combine(Path.Combine("Nortroll", "NShape"), Application.ProductName);
 		private string _xmlStoreDirectory;
 		private bool _projectSaved = false;
 		private int _maxRepositoryVersion;
