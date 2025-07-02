@@ -18,10 +18,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NShape Designer")]
+[assembly: AssemblyTitle("NetDraw Designer")]
 [assembly: AssemblyDescription("Graphics editor for NShape vector graphics")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyProduct("NShape Designer")]
+[assembly: AssemblyProduct("NetDraw Designer")]
 [assembly: AssemblyTrademark("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
