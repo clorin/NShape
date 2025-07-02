@@ -286,11 +286,11 @@ namespace Dataweb.NShape.Advanced {
 		protected internal override void InitializeToDefault(IStyleSet styleSet) {
 			base.InitializeToDefault(styleSet);
 			_pointBuffer[0].X = 0;
-			_pointBuffer[0].Y = -20;
-			_pointBuffer[1].X = -20;
-			_pointBuffer[1].Y = 20;
-			_pointBuffer[2].X = 20;
-			_pointBuffer[2].Y = 20;
+			_pointBuffer[0].Y = -8;
+			_pointBuffer[1].X = -8;
+			_pointBuffer[1].Y = 8;
+			_pointBuffer[2].X = 8;
+			_pointBuffer[2].Y = 8;
 			int x, y;
 			Geometry.CalcPolygonBalancePoint(_pointBuffer, out x, out y);
 

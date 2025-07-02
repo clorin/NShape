@@ -2870,7 +2870,7 @@ namespace Dataweb.NShape.Designer {
 		private bool _enterClosesTextEditor = true;
 		private bool _showGrid = true;
 		private bool _snapToGrid = true;
-		private int _gridSize = 20;
+		private int _gridSize = 8;
 		private Color _gridColor = Color.Gainsboro;
 		private int _snapDistance = 5;
 		private ControlPointShape _resizePointShape = ControlPointShape.Square;

@@ -38,7 +38,7 @@ namespace Dataweb.NShape {
 	public class XmlStore : Store {
 
 		/// <summary>Defines the default extension of NShape XML project files.</summary>
-		public const string DefaultProjectFileExtension = ".nspj";
+		public const string DefaultProjectFileExtension = ".ndpj";
 
 		/// <summary>Defines the default extension of the backup file created when setting BackupFileGenerationMode to "BakFile".</summary>
 		public const string DefaultBackupFileExtension = ".bak";

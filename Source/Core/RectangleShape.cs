@@ -358,8 +358,8 @@ namespace Dataweb.NShape.Advanced {
 		/// <override></override>
 		protected internal override void InitializeToDefault(IStyleSet styleSet) {
 			base.InitializeToDefault(styleSet);
-			_size.Width = 60;
-			_size.Height = 40;
+			_size.Width = 24;
+			_size.Height = 16;
 		}
 
 
@@ -1101,8 +1101,8 @@ namespace Dataweb.NShape.Advanced {
 		/// <override></override>
 		protected internal override void InitializeToDefault(IStyleSet styleSet) {
 			base.InitializeToDefault(styleSet);
-			Width = 40;
-			Height = 40;
+			Width = 16;
+			Height = 16;
 		}
 
 
